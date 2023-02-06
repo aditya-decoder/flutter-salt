@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "828229194699",
+    "project_id": "megashop-salt",
+    "storage_bucket": "megashop-salt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828229194699:android:42d48ad54b47dcc84a5c4e",
+        "android_client_info": {
+          "package_name": "com.saltinfo.megashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828229194699-f6dlem1kha6piitcqdtgn1tbhic4mqu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw31jUazI3HKqpSh4Ln6djnmhsYwcOYV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828229194699-f6dlem1kha6piitcqdtgn1tbhic4mqu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828229194699:android:be6a78f3de99f5ec4a5c4e",
+        "android_client_info": {
+          "package_name": "com.saltinfo.megashop_salt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828229194699-an4bqbuuncuvndfm4crm6gllqneqjjtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saltinfo.megashop_salt",
+            "certificate_hash": "d25d25a001c5f162da78eb1f002f3b43ff70c052"
+          }
+        },
+        {
+          "client_id": "828229194699-f6dlem1kha6piitcqdtgn1tbhic4mqu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw31jUazI3HKqpSh4Ln6djnmhsYwcOYV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828229194699-f6dlem1kha6piitcqdtgn1tbhic4mqu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
